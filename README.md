@@ -1,10 +1,3 @@
-Sure! Here's a clean version of the `README.md` file **without** the screenshot requirement or notes:
-
----
-
-### ✅ `README.md`
-
-```markdown
 # 🐞 BugTracker
 
 A simple web-based bug tracking system built using HTML, CSS, and JavaScript. This project demonstrates version control workflows using Git and GitHub — including branching, merge conflicts, stash operations, and conventional commits.
@@ -24,18 +17,12 @@ A simple web-based bug tracking system built using HTML, CSS, and JavaScript. Th
 
 ## 📁 Project Structure
 
-```
-
-/BugTracker
-│
-├── index.html       # Bug tracker layout
-├── style.css        # Basic styling
-├── app.js           # Backend or client-side logic (based on choice)
-├── .gitignore       # Ignored files like node\_modules, .env
-├── README.md        # Project overview
-└── debug.txt        # Temporary file (used for git reset/restore demo)
-
-```
+- **index.html** – Main layout for the Bug Tracker app  
+- **style.css** – Basic styling for the interface  
+- **app.js** – JavaScript file containing backend or frontend logic  
+- **.gitignore** – Contains ignored files and folders like `node_modules/`, `.env`, and log files  
+- **README.md** – This documentation file  
+- **debug.txt** – Dummy file used for Git reset and restore demonstration
 
 ---
 
@@ -58,4 +45,3 @@ A simple web-based bug tracking system built using HTML, CSS, and JavaScript. Th
 **Aadhithya Raja D N**  
 🗓️ *Internship Trainee*  
 📅 *Date: 21/07/2025*
-
