@@ -22,4 +22,5 @@ app.post('/bugs', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Bug Tracker app listening at http://localhost:${PORT}`);
+  console.log(`Running on port ${PORT}`);
 });
